@@ -35,3 +35,8 @@ elif mathop == "4":
         print("Choose a number larger than 0 to divide by. Exiting ")
 else:
     print("Please enter a valid option. Exiting")
+
+        else:
+        print("Choose a number larger than 0 to divide by. Exiting ")
+else:
+    print("Please enter a valid option. Exiting")
